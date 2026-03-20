@@ -1,9 +1,9 @@
 # Spring Professional - Estudos
--Repositório de estudos baseado no curso de Java e Spring.
+- Repositório de estudos baseado no curso de Java e Spring.
 
 ## 📌 Objetivo
 
--Acompanhar a evolução prática desde Java básico até Spring Boot.
+- Acompanhar a evolução prática desde Java básico até Spring Boot.
 
 ## 📌 Conteúdo atual
 
@@ -13,10 +13,10 @@
 
 ## 🚀 Próximos passos
 
--Introdução ao Spring Boot
--Criação de APIs REST
--Injeção de dependência
--Banco de dados
+- Introdução ao Spring Boot
+- Criação de APIs REST
+- Injeção de dependência
+- Banco de dados
 
 ## 📈 Evolução
--Este repositório documenta minha evolução prática em Java e Spring, com commits frequentes ao longo do aprendizado.
+- Este repositório documenta minha evolução prática em Java e Spring, com commits frequentes ao longo do aprendizado.
