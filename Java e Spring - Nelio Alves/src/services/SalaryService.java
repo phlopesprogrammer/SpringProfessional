@@ -3,8 +3,8 @@ package services;
 import entities.Employee;
 
 public class SalaryService {
-    TaxService taxService;
-    PensionService pensionService;
+    private TaxService taxService;
+    private PensionService pensionService;
 
     public SalaryService(TaxService taxService, PensionService pensionService) {
         this.taxService = taxService;
